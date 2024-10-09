@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.5rem;   
+}
+.form input {
+    background-color: black;
+    color: rgb(196, 120, 45);
+    border-radius: 5px;
+    font-family: sans-serif;
+    height: 20px;
+    text-align: center;
+}
+.form button {
+    background-color: greenyellow;
+    color: black;    
+}
+* {
+    background-color: rgb(18, 144, 182);
+}
